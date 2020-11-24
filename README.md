@@ -1,5 +1,6 @@
 # VBA-Othello
 ![Othello](https://user-images.githubusercontent.com/66747535/100058445-9ec52d00-2e6c-11eb-9166-b764d9970310.gif)
+
 엑셀에서 VBA 매크로를 통해 실행할 수 있는 오델로(오셀로) 게임이다.
 
 ## 적용법
